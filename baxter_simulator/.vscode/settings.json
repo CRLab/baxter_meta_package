@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/david/ros/ros_reality_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages",
+        "/home/david/.local/share/pynaoqi-python2.7-2.5.5.5-linux64/lib/python2.7/site-packages"
+    ]
+}
